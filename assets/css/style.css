@@ -409,6 +409,7 @@ tfoot td, thead th {
         line-height: 3rem;
         width: 3rem;
         height: 3rem;
+        border-radius: 1rem;
         text-align: center;
         padding: 0.5rem;
         cursor: pointer;
