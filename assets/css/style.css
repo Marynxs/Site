@@ -433,4 +433,8 @@ tfoot td, thead th {
     .top-content h2 {
         font-size: 4rem;
     }
+
+    .intro-content {
+        display:block ;
+    }
 }
