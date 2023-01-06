@@ -426,4 +426,7 @@ tfoot td, thead th {
         padding-top: 0rem ;
     }
 
+    body .grid-content h2, h2 {
+        font-size: 4.5rem ;
+    }
 }
