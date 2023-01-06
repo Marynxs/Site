@@ -413,6 +413,7 @@ tfoot td, thead th {
         text-align: center;
         padding: 0.5rem;
         cursor: pointer;
+        border: solid 0.1rem var(--primary-color);
     }
     /*×*/
     .close-menu:checked~.menu {
